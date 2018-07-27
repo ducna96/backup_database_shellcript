@@ -1,5 +1,5 @@
 #SQL Credentials. Update with your current credentials.
-MySQLUser=      #user mysql 
+MySQLUser=    #user mysql 
 MySQLPass=		#password mysql
 #MySQLHost=“localhost”    
 # Linux bin paths, change this if it can not be autodetected via which command
